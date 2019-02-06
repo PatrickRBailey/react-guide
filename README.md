@@ -1,17 +1,17 @@
-# Indecision App
-This is the first project for the udemy course https://www.udemy.com/react-2nd-edition/learn/v4/overview
-This page will serve as a notes platform to track helpful things to be aware of.
+# React Guide
+This is a collection of wiki guides/notes to help understand how to build web apps with React and Redux. This repo contains a starting boilerplate.
 
 # Packages
 - Node.js
 - Yarn
 - Babel
 - Live Server
+- Webpack
 
 # Helpful Commands
 ```
-# launches the public folder using live server
-$ live-server public
+# launches the dev server using webpack
+$ yarn run dev-server
 
 # Uses babel to convert JSX to JS in output folder located at public/scripts
 $ babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
