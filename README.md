@@ -24,5 +24,5 @@ $ yarn add package-name@1.2.3
 ```
 
 # Helpful links
-[MDN Docs](https://developer.mozilla.org/en-US/) 
+[MDN Docs](https://developer.mozilla.org/en-US/)    
 [React Router](https://reacttraining.com/react-router/)
